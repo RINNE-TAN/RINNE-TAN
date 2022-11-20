@@ -1,3 +1,3 @@
 - 👋 Hi, I’m RINNE-TAN
-- 👀 I’m interested in Golang rust Vue
-- 🌱 I’m currently learning web backend
+- 👀 I’m interested in  rust compiler
+- 🌱 I’m currently work on (pivot-lang)[https://github.com/Pivot-Studio/pivot-lang]
